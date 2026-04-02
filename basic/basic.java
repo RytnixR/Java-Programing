@@ -1,7 +1,7 @@
 public class basic {
     public static void main(String[] args) {
         // output
-        System.out.println("Hi");
+        System.out.println("Hi");  // println se bhi next line milri hai
         System.out.println("hehehehe...");
         System.out.println("*\n**\n***\n****");
 
