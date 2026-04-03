@@ -3,6 +3,7 @@ package pattern;
 import java.util.*;
 
 public class solidrectangle {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner x = new Scanner(System.in);
 
