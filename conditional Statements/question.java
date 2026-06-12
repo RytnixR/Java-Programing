@@ -13,5 +13,5 @@ public class question {
             System.out.println(b+" is grater");
         }
         sc.close();
-    }    
+    }
 }
